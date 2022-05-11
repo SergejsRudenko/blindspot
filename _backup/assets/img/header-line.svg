@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="12px" viewBox="0 0 54 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>header-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1" transform="translate(-290.000000, -228.000000)">
+            <g id="header-line" transform="translate(290.000000, 228.000000)">
+                <polygon id="Rectangle-1" fill="#BD3483" points="0 0 30 0 10.2582817 12 0 12"></polygon>
+                <polygon id="Rectangle-1-Copy" fill="#0FAEE2" transform="translate(39.000000, 6.000000) rotate(-180.000000) translate(-39.000000, -6.000000) " points="24 0 54 0 34.2582817 12 24 12"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

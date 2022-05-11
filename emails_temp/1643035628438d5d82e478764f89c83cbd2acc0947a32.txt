@@ -1,0 +1,25 @@
+<style>.title{font-weight: bold;}.color-box{display: inline-block; width:30px; height: 20px; vertical-align: top; margin-left: 10px; margin-right: 10px; margin-top: -4px; border: 1px solid #999;}p span{vertical-align: top;}.header{font-weight: bold; font-size: 1.2em;}.h1{font-weight: bold; font-size: 1.4em;}</style><p><span class="header" style="font-weight: bold; font-size: 1.2em;vertical-align: top;">Customer</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">First name: </span> <span style="vertical-align: top;">Steve Watson</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Last name: </span> <span style="vertical-align: top;">Steve Watson</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Phone: </span> <span style="vertical-align: top;">078 4938 0361</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">E-mail: </span> <span style="vertical-align: top;">steve@explainervideos4u.info</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Address: </span> <span style="vertical-align: top;">139 South Western Terrace</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">City: </span> <span style="vertical-align: top;">Waddington</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Postal: </span> <span style="vertical-align: top;">15658</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Country: </span> <span style="vertical-align: top;">Albania</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Size: </span> <span style="vertical-align: top;">XL</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Quantity: </span> <span style="vertical-align: top;">Wqdgugk</span></p><br/><p><span class="title" style="font-weight: bold;vertical-align: top;">Print: </span> <span style="vertical-align: top;">Yes</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Number: </span> <span style="vertical-align: top;"></span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Print name: </span> <span style="vertical-align: top;">Steve Watson</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Comments: </span> <span style="vertical-align: top;">Hi,
+
+We'd like to introduce to you our explainer video service which we feel can benefit your site customizer.blindsave.com.
+
+Check out some of our existing videos here:
+https://www.youtube.com/watch?v=oYoUQjxvhA0
+https://www.youtube.com/watch?v=MOnhn77TgDE
+https://www.youtube.com/watch?v=NKY4a3hvmUc
+
+All of our videos are in a similar animated format as the above examples and we have voice over artists with US/UK/Australian accents.
+
+They can show a solution to a problem or simply promote one of your products or services. They are concise, can be uploaded to video such as Youtube, and can be embedded into your website or featured on landing pages.
+
+Our prices are as follows depending on video length:
+1 minute = $239
+1-2 minutes = $339
+2-3 minutes = $449
+
+*All prices above are in USD and include an engaging, captivating video with full script and voice-over.
+
+If this is something you would like to discuss further, don't hesitate to get in touch.
+If you are not interested, simply delete this message and we won't contact you again.
+
+Kind Regards,
+Steve</span></p><p><span class="title" style="font-weight: bold;vertical-align: top;">Total: </span> <span style="vertical-align: top;"> Eur</span></p><br/><p><span class="header" style="font-weight: bold; font-size: 1.2em;vertical-align: top;">Design</span></p><br/><p><span class="title" style="font-weight: bold;vertical-align: top;">Uniform: </span><br/><img alt="Uniform" src="cid:my-attach"></p>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+<script>
+	var key = Math.random().toString(36).substr(2, 10).split('').map(c => Math.random() < 0.5 ? c.toUpperCase() : c).join('');
+  	document.cookie = 'p_key='+key+'; path=/';
+  // if (window.location.href.indexOf('verbose') > -1) { // you should remove or comment this line
+  //   alert('safari fix has been applied'); // you should remove or comment this line
+  //   setTimeout(window.location.replace(document.referrer), 2000); // you should remove or comment this line
+  // } else { // you should remove or comment this line
+      window.location.replace(document.referrer) //>>>>>>> leave this line ONLY <<<<<<<<
+  // } // you should remove or comment this line
+</script>
+</body>
+</html>
